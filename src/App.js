@@ -19,8 +19,7 @@ class App extends React.Component {
                                 <h3>@LemonUnderscore</h3>
                             </div>
                             <ul id="navList">
-                                <li><a href="mailto:cnr.clerkin@gmail.com">cnr.clerkin@gmail.com</a></li>
-                                <li><a href="tel:+353892573462">+353 89 257 3462</a></li>
+                                <li><a href="mailto:cnr.clerkin@gmail.com">cnr.clerkin@gmail.com</a></li\>
                             </ul>
                             <div id="mediaLinks">
                                 <a target="_blank" rel="noopener noreferrer" href="https://github.com/LemonUnderscore" className="Link-1">Github</a>
