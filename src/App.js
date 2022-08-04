@@ -26,7 +26,7 @@ function App() {
                     Dublin City University</p>
                 </div>
                 <div id="sideFooter">
-                    <p> > Updated May 2022</p>
+                    <p> > Updated August 2022</p>
                 </div>
             </div>
             <div id="contentWrapper">
@@ -34,34 +34,30 @@ function App() {
                     <h1>
                       <a target="_blank" rel="noopener noreferrer" href={cv}>Download CV</a>
                     </h1>
-                    <h2>> Proficient Skills & Tools</h2>
-                        <ul>
-                          <li>Python</li>
-                          <li>JavaScript</li>
-                          <li>React</li>
-                          <li>SQL</li>
-                          <li>HTML5, CSS3</li>
-                          <li>Adobe Photoshop, Premiere Pro</li>
-                        </ul>
-                      <h2>> Familiar Skills & Tools</h2>
-                        <ul>
-                        <li>C#</li>
-                        <li>Java</li>
-                        <li>C++</li>
-                        <li>TypeScript</li>
-                        <li>Azure DevOps</li>
-                        <li>AWS Lambda, Lightsail, DynamoDB</li>
-                        <li>PostgreSQL</li>
-                        <li>Firebase</li>
-                        <li>React Native</li>
-                        <li>Expo</li>
-                        <li>OpenCV</li>
-                        <li>Assembly</li>
-                        <li>Unity</li>
-                        <li>Blender</li>
-                        <li>A-Frame</li>
-                        </ul>
-                    <h2>> Previous Personal Projects</h2>
+                    <h2>> Previous Projects</h2>
+                    <ul>
+                        <li>
+                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/LemonUnderscore/allert-final-year-project-archive/">Allert - Allergen Scanning App (Final Year Project)</a>
+                            <ul>
+                                <li>A cross-platform mobile app, using computer vision tools to automatically detect allergen information in product ingredient listings.</li>
+                                <li>Tools Used:</li>
+                                <ul>
+                                    <li>Python</li>
+                                    <li>OpenCV</li>
+                                    <li>Terraform</li>
+                                    <li>AWS Lambda</li>
+                                    <li>React Native</li>
+                                    <li>Expo</li>
+                                </ul>
+                                <li>Features:</li>
+                                <ul>
+                                    <li>Create a user account and manage user preferences for allergen information.</li>
+                                    <li>Scan images of product ingredient information using your phone's camera, or images from your device's image gallery.</li>
+                                    <li>View history of images scanned.</li>
+                                </ul>
+                            </ul>    
+                        </li>
+                    </ul>
                     <ul>
                         <li>
                             <a target="_blank" rel="noopener noreferrer" href="https://lemonunderscore.github.io/tabletop-dicetray/">Tabletop Dice-Tray - React Web-App  (Link)</a>
@@ -79,6 +75,33 @@ function App() {
                             </ul>    
                         </li>
                     </ul>
+                    <h2>> Proficient Skills & Tools</h2>
+                        <ul>
+                          <li>Python</li>
+                          <li>JavaScript</li>
+                          <li>React</li>
+                          <li>SQL</li>
+                          <li>HTML5, CSS3</li>
+                          <li>Adobe Photoshop, Premiere Pro</li>
+                        </ul>
+                      <h2>> Familiar Skills & Tools</h2>
+                        <ul>
+                        <li>C#</li>
+                        <li>Java</li>
+                        <li>TypeScript</li>
+                        <li>Azure DevOps</li>
+                        <li>AWS Lambda, Lightsail, DynamoDB</li>
+                        <li>PostgreSQL</li>
+                        <li>Firebase</li>
+                        <li>React Native</li>
+                        <li>Expo</li>
+                        <li>OpenCV</li>
+                        <li>Assembly</li>
+                        <li>Unity</li>
+                        <li>Blender</li>
+                        <li>Terraform</li>
+                        <li>GoLang</li>
+                        </ul>
                 </div>
             </div>
         </div>
