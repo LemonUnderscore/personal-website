@@ -9,7 +9,6 @@ function App() {
                 <div id="navBox">
                     <div id="pageTitle">
                         <h1>Conor Clerkin</h1>
-                        <h3>@LemonUnderscore</h3>
                     </div>
                     <div id="mediaLinks">
                         <a target="_blank" rel="noopener noreferrer" href="https://github.com/LemonUnderscore" className="Link-1">Github</a>
@@ -26,7 +25,7 @@ function App() {
                     Dublin City University</p>
                 </div>
                 <div id="sideFooter">
-                    <p> > Updated August 2022</p>
+                    <p> > Updated October 2022</p>
                 </div>
             </div>
             <div id="contentWrapper">
@@ -48,6 +47,7 @@ function App() {
                                     <li>AWS Lambda</li>
                                     <li>React Native</li>
                                     <li>Expo</li>
+                                    <li>Firebase</li>
                                 </ul>
                                 <li>Features:</li>
                                 <ul>
@@ -83,6 +83,7 @@ function App() {
                           <li>SQL</li>
                           <li>HTML5, CSS3</li>
                           <li>Adobe Photoshop, Premiere Pro</li>
+                          <li>Firebase</li>
                         </ul>
                       <h2>> Familiar Skills & Tools</h2>
                         <ul>
