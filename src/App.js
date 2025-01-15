@@ -25,7 +25,7 @@ function App() {
                     Dublin City University</p>
                 </div>
                 <div id="sideFooter">
-                    <p> > Updated October 2022</p>
+                    <p> > Updated Jan 2025</p>
                 </div>
             </div>
             <div id="contentWrapper">
@@ -75,34 +75,15 @@ function App() {
                             </ul>    
                         </li>
                     </ul>
-                    <h2>> Proficient Skills & Tools</h2>
-                        <ul>
-                          <li>Python</li>
-                          <li>JavaScript</li>
-                          <li>React</li>
-                          <li>SQL</li>
-                          <li>HTML5, CSS3</li>
-                          <li>Adobe Photoshop, Premiere Pro</li>
-                          <li>Firebase</li>
-                        </ul>
-                      <h2>> Familiar Skills & Tools</h2>
-                        <ul>
-                        <li>C#</li>
-                        <li>Java</li>
-                        <li>TypeScript</li>
-                        <li>Azure DevOps</li>
-                        <li>AWS Lambda, Lightsail, DynamoDB</li>
-                        <li>PostgreSQL</li>
-                        <li>Firebase</li>
-                        <li>React Native</li>
-                        <li>Expo</li>
-                        <li>OpenCV</li>
-                        <li>Assembly</li>
-                        <li>Unity</li>
-                        <li>Blender</li>
-                        <li>Terraform</li>
-                        <li>GoLang</li>
-                        </ul>
+                    <ul>
+                        <li>
+                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/LemonUnderscore/V1BlazorSkills">Blazor Skills</a>
+                            <ul>
+                                <li>A UI for managing users and relationships built using Blazor as part of a training course for Version 1</li>
+                                <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/LemonUnderscore/V1BlazorSkills">Github Repo Link</a></li>
+                            </ul>    
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
