@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.05d72cb4.css",
-    "main.js": "/static/js/main.27edc7af.js",
+    "main.js": "/static/js/main.e98830dc.js",
     "static/js/787.2ed765d8.chunk.js": "/static/js/787.2ed765d8.chunk.js",
     "static/media/CV - Conor Clerkin.pdf": "/static/media/CV - Conor Clerkin.9ac320015ec613b801bc.pdf",
     "static/media/horse.jpg": "/static/media/horse.a7e839c3f99db76f771c.jpg",
     "index.html": "/index.html",
     "main.05d72cb4.css.map": "/static/css/main.05d72cb4.css.map",
-    "main.27edc7af.js.map": "/static/js/main.27edc7af.js.map",
+    "main.e98830dc.js.map": "/static/js/main.e98830dc.js.map",
     "787.2ed765d8.chunk.js.map": "/static/js/787.2ed765d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05d72cb4.css",
-    "static/js/main.27edc7af.js"
+    "static/js/main.e98830dc.js"
   ]
 }
